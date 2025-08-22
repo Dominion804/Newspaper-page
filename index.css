@@ -98,7 +98,7 @@ h1 {
     height: 600px;
     width: 400px;
     border-radius: 6px;
-    background-image: url("/assets/images/illustration-sign-up-desktop.svg");
+    background-image: url("illustration-sign-up-desktop.svg");
     background-repeat: no-repeat;
 }
 
@@ -180,7 +180,7 @@ h1 {
     .theleftimage {
         grid-row: 1/2;
         grid-column: 1/2;
-        background-image: url("/assets/images/illustration-sign-up-mobile.svg");
+        background-image: url("illustration-sign-up-mobile.svg");
         background-repeat: no-repeat;
         width: 380px;
         height: 300px;
@@ -195,5 +195,6 @@ h1 {
     .section1 button {
         max-width: 350px;
     }
+
 
 }
